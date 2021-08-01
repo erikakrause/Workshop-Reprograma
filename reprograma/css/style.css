@@ -46,6 +46,7 @@ main div div {
 }
 main div div p {
   margin-bottom: 30px;
+  text-align: justify;
 }
 main div div p span {
   font-weight: bold;
